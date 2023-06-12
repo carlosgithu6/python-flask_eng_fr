@@ -1,4 +1,4 @@
-'''This module is for tranlate'''
+'''This module is for translate'''
 from deep_translator import MyMemoryTranslator
 
 def english_to_french(english_text):
